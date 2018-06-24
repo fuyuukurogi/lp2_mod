@@ -1,6 +1,6 @@
 {
 
-    "name": "your-vendor-name/areas",
+    "name": "tatianefkurogi/areas",
     "description": "Módulo Área de Atuação e Especialidades.",
     "require": {
         "php": "^5.3.3 || ^7.0",
